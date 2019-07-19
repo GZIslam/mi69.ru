@@ -10,8 +10,9 @@ body{
   font-family: 'Exo 2', sans-serif;
   font-family: 'Ubuntu', sans-serif;
   font-size: 25px;
-  margin-right: auto;
   margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 .container{
   margin:  0 auto;
@@ -807,6 +808,113 @@ a{
   height: 18px;
   left: 1245px;
   top: 25px;
+}
+@media screen and (max-width: 1280px){
+  .header{
+    margin-left: -330px;
+  }
+  .whymebest{
+    margin-left: -330px;
+  }
+  .bgtools{
+    margin-left: -330px;
+  }
+  .pointnaim{
+    margin-left: -330px;
+  }
+  .pointtovar{
+    margin-left: -330px;
+  }
+  .pointlet{
+    margin-left: -330px;
+  }
+  .katbg{
+    margin-left: -330px;
+  }
+  .katbg1{
+    margin-left: -330px;
+  }
+  .katalogimg{
+    margin-left: -330px;
+  }
+  .img1{
+    margin-left: -330px;
+  }
+  .img2{
+    margin-left: -330px;
+  }
+  .img3{
+    margin-left: -330px;
+  }
+  .img4{
+    margin-left: -330px;
+  }
+  .img5{
+    margin-left: -330px;
+  }
+  .img6{
+    margin-left: -330px;
+  }
+  .img7{
+    margin-left: -330px;
+  }
+  .img8{
+    margin-left: -330px;
+  }
+  .img9{
+    margin-left: -330px;
+  }
+  .img10{
+    margin-left: -330px;
+  }
+  .img11{
+    margin-left: -330px;
+  }
+  .img12{
+    margin-left: -330px;
+  }
+  .img13{
+    margin-left: -330px;
+  }
+  .img14{
+    margin-left: -330px;
+  }
+  .img15{
+    margin-left: -330px;
+  }
+  .img16{
+    margin-left: -330px;
+  }
+  .katt{
+    margin-left: -330px;
+  }
+  .teamimg{
+    margin-left: -330px;
+  }
+  .bgteam{
+    margin-left: -330px;
+  }
+  .t1{
+    margin-left: -330px;
+  }
+  .t2{
+    margin-left: -330px;
+  }
+  .t3{
+    margin-left: -330px;
+  }
+  .t4{
+    margin-left: -330px;
+  }
+  .t5{
+    margin-left: -330px;
+  }
+  .map{
+      margin-left: -330px;
+  }
+  .bgfooter{
+      margin-left: -330px;
+  }
 }
 /****************** ANIMATION **********************/
 .fade-in {
